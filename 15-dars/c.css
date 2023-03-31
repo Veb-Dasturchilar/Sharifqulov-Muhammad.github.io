@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.sinf-1{
+	padding: 15px 20px;
+	margin: 100px;
+	border-radius: 5px;
+	color: white;
+	text-transform: uppercase;
+	background-color: dodgerblue;
+	border-color: dodgerblue;
+}
+
+.sinf-2{
+	padding: 15px 20px;
+	margin: 100px;
+	border-radius: 5px;
+	color: white;
+	text-transform: uppercase;
+	background-color: #0f0;
+	border-color: #0f0;
+}
+
+.sinf-1:hover{
+	box-shadow: 0 4px 15px dodgerblue;
+}
+
+.sinf-2:hover{
+	box-shadow: 0 4px 15px #0f0;
+}
